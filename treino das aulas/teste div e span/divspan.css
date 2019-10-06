@@ -1,0 +1,22 @@
+
+body {
+	margin: 0
+}
+.logo {
+	width: 100%;
+	height: 270px;
+	background: green;
+	font-size: 100px
+	}
+.jogadores {
+	width:50%;
+	height: 400px;
+	background: grey;
+	float: right;
+	font-size: 100px
+
+}	
+span {
+	font-size: 130px;
+	background: blue
+}

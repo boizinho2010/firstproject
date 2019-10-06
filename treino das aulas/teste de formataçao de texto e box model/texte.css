@@ -1,0 +1,17 @@
+#teste {
+	width: 1000px;
+	height: 400px;
+	background-color: yellow;
+	color: black;
+	font-size: 50px;
+	font-family: arial;
+	font-weight: 800;
+	text-align: center;
+	text-transform: lowercase;
+	text-decoration: underline;
+
+	margin-top: 20px;
+	margin-left: 330px;
+	padding-top: 150px
+
+}

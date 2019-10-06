@@ -1,0 +1,18 @@
+body { background-color: grey;
+       color: black	
+}
+h1 { font-size: 60px;
+	  color: black
+}
+button{ width: 100px;
+	    height: 60px;
+	    color: #red;
+	    background-color:#black;
+	    border: 0
+}
+.teste{width: 100px;
+	height: 60px;
+	color: yellow;
+	background-color:black;
+	border:3px
+}

@@ -1,0 +1,22 @@
+body {
+	margin-top: 15px;
+}
+
+a {
+	margin-right: 12px
+}
+
+.botao {
+	background-color: transparent;
+	border: none;
+	margin-right: 12px;
+}
+
+.botao2 {
+	background-color: #4285f4;
+	color: white;
+	border: none;
+	border-radius: 2px;
+	font-weight: bold;
+	padding: 5px 15px 5px 15px
+}

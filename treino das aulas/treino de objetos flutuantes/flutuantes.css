@@ -1,0 +1,16 @@
+.logo {
+	width: 100%;
+	height: 270px;
+	border: 10px;
+	border-radius: 3px
+
+}
+body {
+	margin: 0
+}
+table {
+	background-color: grey;
+	position: absolute;
+	right: 0px;
+	top: 0px
+}
